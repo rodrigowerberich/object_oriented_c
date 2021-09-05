@@ -1,0 +1,3 @@
+ADD_SUBDIRECTORY(oo_config)
+ADD_SUBDIRECTORY(object)
+ADD_SUBDIRECTORY(clonable_interface)
